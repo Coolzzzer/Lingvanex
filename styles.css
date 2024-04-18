@@ -148,6 +148,9 @@ button{
 .block2 > .who_is_block_img{
 	display: none;
 } 
+.block2 .who_is_block_content > .who_is_block_title{
+	display: none;
+} 
 .block2 .who_is_block_text ul > li{
 	display: none;
 } 
@@ -161,9 +164,12 @@ button{
 .block3 > .who_is_block_img{
 	display: none;
 } 
+.block3 > .who_is_block_title{
+	display: none;
+} 
 .block3 .who_is_block_text  ul > li{
 	display: none;
-}  
+} 
 .who_is_block_title{
 	font-size: 60px;
 	font-weight: 900;
@@ -269,7 +275,7 @@ button{
 	.block2{
 		width: 300px;
 		height: auto;
-		margin-top: 400px;
+		margin-top: 460px;
 	}
 	.block3{
 		margin-top: 290px;
